@@ -4,6 +4,7 @@
 
 ## https://learngitbranching.js.org/ - linux
 
+## https://www.youtube.com/channel/UCbsG3UCAj7Gqi8D6-SzOGFw - Канал курсов QA (тестировщиков) - от вводного до продвинутых. Открытые вебинары, лекции и кэжуал-вечеринки.
 
 >*1. Что такое тестирование?*
 
